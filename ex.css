@@ -1,0 +1,41 @@
+
+
+h3{
+   background-color: brown;
+    
+}
+
+#area-cabecalho{
+    background-color: brown;
+}
+a:link, a:visited{
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    color: brown;
+    
+}
+p{
+    color: aliceblue;
+}
+p{
+  background-color: brown;
+}
+li{
+    background-color: rgb(192, 87, 87);
+}
+li{
+    color: aliceblue;
+}
+h4{
+    border: 8px;
+    border-style: solid;
+    border-color: brown;
+}
+button{
+    background-color: brown;
+}
+button{
+    color: white;
+}
